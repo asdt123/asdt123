@@ -11,8 +11,7 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 
 🚀 Sempre aberto a trocar ideias sobre **inovação, desenvolvimento embarcado e automação**!  
 
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=asdt123&layout=compact&langs_count=8&theme=github_dark)
+  ![Linguagens mais usadas](https://github.com/asdt123/asdt123/blob/main/grafico.png)
 
 
 <!---
