@@ -1,4 +1,4 @@
-# 💡 Engenharia de Controle e Automação | Sistemas Embarcados | Linux & ARM | Equipamentos Biomédicos  
+# 💡 Prazer, eu sou o Arthur
 
 Atualmente cursando **Engenharia de Controle e Automação na UFMG**, trabalho no desenvolvimento de um **sistema embarcado para análise hematológica**, 
 lidando tanto com **software** quanto **hardware**, além das aplicações que conectam o equipamento ao fluxo de trabalho dos usuários.  
