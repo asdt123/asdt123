@@ -7,14 +7,28 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 
 🎓 **Formação:**  
 - Engenharia de Controle e Automação - *UFMG (em andamento)*  
-- Equipamentos Biomédicos - *CEFET-BH*  
+- Equipamentos Biomédicos - *CEFET-BH*
 
-🚀 Sempre aberto a trocar ideias sobre **inovação, desenvolvimento embarcado e automação**!  
+###
 
-  ![Linguagens mais usadas](https://github.com/asdt123/asdt123/blob/main/grafico.png)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
+###
+
+🚀 Sempre aberto a trocar ideias sobre **inovação, desenvolvimento embarcado e automação**! 
+
+<img src="https://raw.githubusercontent.com/asdt123/asdt123/output/snake.svg" alt="Snake animation" />
 
 <!---
 asdt123/asdt123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
