@@ -31,7 +31,6 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 -------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asdt123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/asdt123/asdt123/output/snake.svg" alt="Snake animation" />  
 </div>
 
