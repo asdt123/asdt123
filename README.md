@@ -31,12 +31,6 @@ Minha experiência inclui **Linux embarcado, processadores ARM** e integração 
 -------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asdt123/asdt123/output/snake.svg" alt="Snake animation" />  
-</div>
-
--------------------------------------------------------------------------------------------------
-
-<div align="center">
   <a href="https://open.spotify.com/user/31ephvbaik44yq7oq3zigr3kuwiu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ephvbaik44yq7oq3zigr3kuwiu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
